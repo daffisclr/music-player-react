@@ -5,7 +5,7 @@ import React from "react";
 const Nav = ({ setLibraryStatus, libraryStatus }) => {
     return (
         <nav>
-            <h1>GeeksforGeeks Music Player</h1>
+            <h1>Music Player Test App with React</h1>
             <button
                 onClick={() => {
                     setLibraryStatus(!libraryStatus);

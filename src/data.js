@@ -9,7 +9,7 @@ function chillHop() {
                 "https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6.png",
             artist: " Harmony Harp",
             audio:
-                "https://media.geeksforgeeks.org/wp-content/uploads/20231004185212/Jawan-Prevue-Theme.mp3",
+                "ttps://media.geeksforgeeks.org/wp-conhtent/uploads/20231004185212/Jawan-Prevue-Theme.mp3",
             color: ["#205950", "#2ab3bf"],
             id: uuidv4(),
             active: true,
